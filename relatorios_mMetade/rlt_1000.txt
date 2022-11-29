@@ -1,0 +1,14 @@
+1ª execução
+Tamanho da entrada: 1000 | Tamanho M: 10 | Tempo de execucao: 1 | Numero de comparacoes: 2521 | Movimentacoes: 3337
+
+2ª execução
+Tamanho da entrada: 1000 | Tamanho M: 10 | Tempo de execucao: 1 | Numero de comparacoes: 2521 | Movimentacoes: 3337
+
+3ª execução
+Tamanho da entrada: 1000 | Tamanho M: 10 | Tempo de execucao: 2 | Numero de comparacoes: 2521 | Movimentacoes: 3337
+
+4ª execução
+Tamanho da entrada: 1000 | Tamanho M: 10 | Tempo de execucao: 2 | Numero de comparacoes: 2521 | Movimentacoes: 3337
+
+5ª execução
+Tamanho da entrada: 1000 | Tamanho M: 10 | Tempo de execucao: 1 | Numero de comparacoes: 2521 | Movimentacoes: 3337

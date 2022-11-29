@@ -1,0 +1,14 @@
+1ª execução
+Tamanho da entrada: 10000 | Tamanho M: 10 | Tempo de execucao: 3 | Numero de comparacoes: 33414 | Movimentacoes: 41859
+
+2ª execução
+Tamanho da entrada: 10000 | Tamanho M: 10 | Tempo de execucao: 4 | Numero de comparacoes: 33414 | Movimentacoes: 41859
+
+3ª execução
+Tamanho da entrada: 10000 | Tamanho M: 10 | Tempo de execucao: 4 | Numero de comparacoes: 33414 | Movimentacoes: 41859
+
+4ª execução
+Tamanho da entrada: 10000 | Tamanho M: 10 | Tempo de execucao: 4 | Numero de comparacoes: 33414 | Movimentacoes: 41859
+
+5ª execução
+Tamanho da entrada: 10000 | Tamanho M: 10 | Tempo de execucao: 3 | Numero de comparacoes: 33414 | Movimentacoes: 41859

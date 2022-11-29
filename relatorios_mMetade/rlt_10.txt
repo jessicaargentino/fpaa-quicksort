@@ -1,0 +1,14 @@
+1ª execução
+Tamanho da entrada: 10 | Tamanho M: 10 | Tempo de execucao: 1 | Numero de comparacoes: 11 | Movimentacoes: 8
+
+2ª execução
+Tamanho da entrada: 10 | Tamanho M: 10 | Tempo de execucao: 1 | Numero de comparacoes: 11 | Movimentacoes: 8
+
+3ª execução
+Tamanho da entrada: 10 | Tamanho M: 10 | Tempo de execucao: 2 | Numero de comparacoes: 11 | Movimentacoes: 8
+
+4ª execução
+Tamanho da entrada: 10 | Tamanho M: 10 | Tempo de execucao: 1 | Numero de comparacoes: 11 | Movimentacoes: 8
+
+5ª execução
+Tamanho da entrada: 10 | Tamanho M: 10 | Tempo de execucao: 1 | Numero de comparacoes: 11 | Movimentacoes: 8
