@@ -1,0 +1,25 @@
+Tamanho da entrada: 10 | Tempo de execucao: 0 | Numero de comparacoes: 74 | Movimentacoes: 265
+Tamanho da entrada: 10 | Tempo de execucao: 1 | Numero de comparacoes: 74 | Movimentacoes: 265
+Tamanho da entrada: 10 | Tempo de execucao: 1 | Numero de comparacoes: 74 | Movimentacoes: 265
+Tamanho da entrada: 10 | Tempo de execucao: 0 | Numero de comparacoes: 74 | Movimentacoes: 265
+Tamanho da entrada: 10 | Tempo de execucao: 0 | Numero de comparacoes: 74 | Movimentacoes: 265
+
+Tamanho da entrada: 100 | Tempo de execucao: 69 | Numero de comparacoes: 8890 | Movimentacoes: 267901
+Tamanho da entrada: 100 | Tempo de execucao: 91 | Numero de comparacoes: 8890 | Movimentacoes: 267901
+Tamanho da entrada: 100 | Tempo de execucao: 89 | Numero de comparacoes: 8890 | Movimentacoes: 267901
+Tamanho da entrada: 100 | Tempo de execucao: 76 | Numero de comparacoes: 8890 | Movimentacoes: 267901
+Tamanho da entrada: 100 | Tempo de execucao: 86 | Numero de comparacoes: 8890 | Movimentacoes: 267901
+
+Tamanho da entrada: 500 | Tempo de execucao: 523 | Numero de comparacoes: 233160 | Movimentacoes: 35892424
+Tamanho da entrada: 500 | Tempo de execucao: 555 | Numero de comparacoes: 233160 | Movimentacoes: 35892424
+Tamanho da entrada: 500 | Tempo de execucao: 543 | Numero de comparacoes: 233160 | Movimentacoes: 35892424
+Tamanho da entrada: 500 | Tempo de execucao: 529 | Numero de comparacoes: 233160 | Movimentacoes: 35892424
+Tamanho da entrada: 500 | Tempo de execucao: 595 | Numero de comparacoes: 233160 | Movimentacoes: 35892424
+
+Tamanho da entrada: 1000 | não executou
+
+Tamanho da entrada: 10000 | não executou
+
+Tamanho da entrada: 100000 | não executou
+
+Tamanho da entrada: 1000000 | não executou

@@ -1,0 +1,41 @@
+Tamanho da entrada: 10 | Tamanho M: 10 | Tempo de execucao: 3 | Numero de comparacoes: 11 | Movimentacoes: 17
+Tamanho da entrada: 10 | Tamanho M: 10 | Tempo de execucao: 5 | Numero de comparacoes: 11 | Movimentacoes: 17
+Tamanho da entrada: 10 | Tamanho M: 10 | Tempo de execucao: 12 | Numero de comparacoes: 11 | Movimentacoes: 17
+Tamanho da entrada: 10 | Tamanho M: 10 | Tempo de execucao: 7 | Numero de comparacoes: 11 | Movimentacoes: 17
+Tamanho da entrada: 10 | Tamanho M: 10 | Tempo de execucao: 9 | Numero de comparacoes: 11 | Movimentacoes: 17
+
+Tamanho da entrada: 100 | Tamanho M: 10 | Tempo de execucao: 30 | Numero de comparacoes: 180 | Movimentacoes: 263
+Tamanho da entrada: 100 | Tamanho M: 10 | Tempo de execucao: 31 | Numero de comparacoes: 180 | Movimentacoes: 263
+Tamanho da entrada: 100 | Tamanho M: 10 | Tempo de execucao: 27 | Numero de comparacoes: 180 | Movimentacoes: 263
+Tamanho da entrada: 100 | Tamanho M: 10 | Tempo de execucao: 22 | Numero de comparacoes: 180 | Movimentacoes: 263
+Tamanho da entrada: 100 | Tamanho M: 10 | Tempo de execucao: 20 | Numero de comparacoes: 180 | Movimentacoes: 263
+
+Tamanho da entrada: 500 | Tamanho M: 10 | Tempo de execucao: 50 | Numero de comparacoes: 1157 | Movimentacoes: 1554
+Tamanho da entrada: 500 | Tamanho M: 10 | Tempo de execucao: 45 | Numero de comparacoes: 1157 | Movimentacoes: 1554
+Tamanho da entrada: 500 | Tamanho M: 10 | Tempo de execucao: 49 | Numero de comparacoes: 1157 | Movimentacoes: 1554
+Tamanho da entrada: 500 | Tamanho M: 10 | Tempo de execucao: 41 | Numero de comparacoes: 1157 | Movimentacoes: 1554
+Tamanho da entrada: 500 | Tamanho M: 10 | Tempo de execucao: 44 | Numero de comparacoes: 1157 | Movimentacoes: 1554
+
+Tamanho da entrada: 1000 | Tamanho M: 10 | Tempo de execucao: 50 | Numero de comparacoes: 2521 | Movimentacoes: 3337
+Tamanho da entrada: 1000 | Tamanho M: 10 | Tempo de execucao: 55 | Numero de comparacoes: 2521 | Movimentacoes: 3337
+Tamanho da entrada: 1000 | Tamanho M: 10 | Tempo de execucao: 55 | Numero de comparacoes: 2521 | Movimentacoes: 3337
+Tamanho da entrada: 1000 | Tamanho M: 10 | Tempo de execucao: 53 | Numero de comparacoes: 2521 | Movimentacoes: 3337
+Tamanho da entrada: 1000 | Tamanho M: 10 | Tempo de execucao: 57 | Numero de comparacoes: 2521 | Movimentacoes: 3337
+
+Tamanho da entrada: 10000 | Tamanho M: 10 | Tempo de execucao: 78 | Numero de comparacoes: 33414 | Movimentacoes: 41859
+Tamanho da entrada: 10000 | Tamanho M: 10 | Tempo de execucao: 65 | Numero de comparacoes: 33414 | Movimentacoes: 41859
+Tamanho da entrada: 10000 | Tamanho M: 10 | Tempo de execucao: 72 | Numero de comparacoes: 33414 | Movimentacoes: 41859
+Tamanho da entrada: 10000 | Tamanho M: 10 | Tempo de execucao: 79 | Numero de comparacoes: 33414 | Movimentacoes: 41859
+Tamanho da entrada: 10000 | Tamanho M: 10 | Tempo de execucao: 73 | Numero de comparacoes: 33414 | Movimentacoes: 41859
+
+Tamanho da entrada: 100000 | Tamanho M: 10 | Tempo de execucao: 73 | Numero de comparacoes: 411756 | Movimentacoes: 480166
+Tamanho da entrada: 100000 | Tamanho M: 10 | Tempo de execucao: 74 | Numero de comparacoes: 411756 | Movimentacoes: 480166
+Tamanho da entrada: 100000 | Tamanho M: 10 | Tempo de execucao: 73 | Numero de comparacoes: 411756 | Movimentacoes: 480166
+Tamanho da entrada: 100000 | Tamanho M: 10 | Tempo de execucao: 75 | Numero de comparacoes: 411756 | Movimentacoes: 480166
+Tamanho da entrada: 100000 | Tamanho M: 10 | Tempo de execucao: 70 | Numero de comparacoes: 411756 | Movimentacoes: 480166
+
+Tamanho da entrada: 1000000 | Tamanho M: 10 | Tempo de execucao: 253 | Numero de comparacoes: 4879364 | Movimentacoes: 5559930
+Tamanho da entrada: 1000000 | Tamanho M: 10 | Tempo de execucao: 272 | Numero de comparacoes: 4879364 | Movimentacoes: 5559930
+Tamanho da entrada: 1000000 | Tamanho M: 10 | Tempo de execucao: 243 | Numero de comparacoes: 4879364 | Movimentacoes: 5559930
+Tamanho da entrada: 1000000 | Tamanho M: 10 | Tempo de execucao: 256 | Numero de comparacoes: 4879364 | Movimentacoes: 5559930
+Tamanho da entrada: 1000000 | Tamanho M: 10 | Tempo de execucao: 255 | Numero de comparacoes: 4879364 | Movimentacoes: 5559930
