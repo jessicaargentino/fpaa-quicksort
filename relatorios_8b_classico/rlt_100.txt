@@ -1,0 +1,14 @@
+1ª execução
+Tamanho da entrada: 100 | Tempo de execucao: 48 | Numero de comparacoes: 8890 | Movimentacoes: 267901
+
+2ª execução
+Tamanho da entrada: 100 | Tempo de execucao: 53 | Numero de comparacoes: 8890 | Movimentacoes: 267901
+
+3ª execução
+Tamanho da entrada: 100 | Tempo de execucao: 51 | Numero de comparacoes: 8890 | Movimentacoes: 267901
+
+4ª execução
+Tamanho da entrada: 100 | Tempo de execucao: 54 | Numero de comparacoes: 8890 | Movimentacoes: 267901
+
+5ª execução
+Tamanho da entrada: 100 | Tempo de execucao: 53 | Numero de comparacoes: 8890 | Movimentacoes: 267901

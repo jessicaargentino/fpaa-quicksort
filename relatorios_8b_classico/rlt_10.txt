@@ -1,0 +1,14 @@
+1ª execução
+Tamanho da entrada: 10 | Tempo de execucao: 5 | Numero de comparacoes: 83 | Movimentacoes: 326
+
+2ª execução
+Tamanho da entrada: 10 | Tempo de execucao: 5 | Numero de comparacoes: 83 | Movimentacoes: 326
+
+3ª execução
+Tamanho da entrada: 10 | Tempo de execucao: 8 | Numero de comparacoes: 83 | Movimentacoes: 326
+
+4ª execução
+Tamanho da entrada: 10 | Tempo de execucao: 6 | Numero de comparacoes: 83 | Movimentacoes: 326
+
+5ª execução
+Tamanho da entrada: 10 | Tempo de execucao: 5 | Numero de comparacoes: 83 | Movimentacoes: 326
