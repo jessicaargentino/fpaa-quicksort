@@ -1,0 +1,35 @@
+Tamanho da entrada: 10 | Tamanho M: 5 | Tempo de execucao: 4 | Numero de comparacoes: 11 | Movimentacoes: 10
+Tamanho da entrada: 10 | Tamanho M: 5 | Tempo de execucao: 1 | Numero de comparacoes: 11 | Movimentacoes: 10
+Tamanho da entrada: 10 | Tamanho M: 5 | Tempo de execucao: 1 | Numero de comparacoes: 11 | Movimentacoes: 10
+Tamanho da entrada: 10 | Tamanho M: 5 | Tempo de execucao: 2 | Numero de comparacoes: 11 | Movimentacoes: 10
+Tamanho da entrada: 10 | Tamanho M: 5 | Tempo de execucao: 2 | Numero de comparacoes: 11 | Movimentacoes: 10
+
+Tamanho da entrada: 100 | Tamanho M: 50 | Tempo de execucao: 2 | Numero de comparacoes: 145 | Movimentacoes: 760
+Tamanho da entrada: 100 | Tamanho M: 50 | Tempo de execucao: 5 | Numero de comparacoes: 145 | Movimentacoes: 760
+Tamanho da entrada: 100 | Tamanho M: 50 | Tempo de execucao: 3 | Numero de comparacoes: 145 | Movimentacoes: 760
+Tamanho da entrada: 100 | Tamanho M: 50 | Tempo de execucao: 2 | Numero de comparacoes: 145 | Movimentacoes: 760
+Tamanho da entrada: 100 | Tamanho M: 50 | Tempo de execucao: 3 | Numero de comparacoes: 145 | Movimentacoes: 760
+
+Tamanho da entrada: 500 | Tamanho M: 250 | Tempo de execucao: 9 | Numero de comparacoes: 696 | Movimentacoes: 21353
+Tamanho da entrada: 500 | Tamanho M: 250 | Tempo de execucao: 2 | Numero de comparacoes: 696 | Movimentacoes: 21353
+Tamanho da entrada: 500 | Tamanho M: 250 | Tempo de execucao: 6 | Numero de comparacoes: 696 | Movimentacoes: 21353
+Tamanho da entrada: 500 | Tamanho M: 250 | Tempo de execucao: 8 | Numero de comparacoes: 696 | Movimentacoes: 21353
+Tamanho da entrada: 500 | Tamanho M: 250 | Tempo de execucao: 2 | Numero de comparacoes: 696 | Movimentacoes: 21353
+
+Tamanho da entrada: 1000 | Tamanho M: 500 | Tempo de execucao: 4 | Numero de comparacoes: 1416 | Movimentacoes: 77228
+Tamanho da entrada: 1000 | Tamanho M: 500 | Tempo de execucao: 14 | Numero de comparacoes: 1416 | Movimentacoes: 77228
+Tamanho da entrada: 1000 | Tamanho M: 500 | Tempo de execucao: 18 | Numero de comparacoes: 1416 | Movimentacoes: 77228
+Tamanho da entrada: 1000 | Tamanho M: 500 | Tempo de execucao: 14 | Numero de comparacoes: 1416 | Movimentacoes: 77228
+Tamanho da entrada: 1000 | Tamanho M: 500 | Tempo de execucao: 7 | Numero de comparacoes: 1416 | Movimentacoes: 77228
+
+Tamanho da entrada: 10000 | Tamanho M: 5000 | Tempo de execucao: 29 | Numero de comparacoes: 13568 | Movimentacoes: 9028843
+Tamanho da entrada: 10000 | Tamanho M: 5000 | Tempo de execucao: 28 | Numero de comparacoes: 13568 | Movimentacoes: 9028843
+Tamanho da entrada: 10000 | Tamanho M: 5000 | Tempo de execucao: 32 | Numero de comparacoes: 13568 | Movimentacoes: 9028843
+Tamanho da entrada: 10000 | Tamanho M: 5000 | Tempo de execucao: 30 | Numero de comparacoes: 13568 | Movimentacoes: 9028843
+Tamanho da entrada: 10000 | Tamanho M: 5000 | Tempo de execucao: 31 | Numero de comparacoes: 13568 | Movimentacoes: 9028843
+
+Tamanho da entrada: 1000000 | Tamanho M: 500000 | Tempo de execucao: 71889 | Numero de comparacoes: 1470342 | Movimentacoes: -385411494
+Tamanho da entrada: 1000000 | Tamanho M: 500000 | Tempo de execucao: 43548 | Numero de comparacoes: 1470342 | Movimentacoes: -385411494
+Tamanho da entrada: 1000000 | Tamanho M: 500000 | Tempo de execucao: 49396 | Numero de comparacoes: 1470342 | Movimentacoes: -385411494
+Tamanho da entrada: 1000000 | Tamanho M: 500000 | Tempo de execucao: 60890 | Numero de comparacoes: 1470342 | Movimentacoes: -385411494
+Tamanho da entrada: 1000000 | Tamanho M: 500000 | Tempo de execucao: 62525 | Numero de comparacoes: 1470342 | Movimentacoes: -385411494

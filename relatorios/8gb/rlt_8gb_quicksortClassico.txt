@@ -1,0 +1,29 @@
+Tamanho da entrada: 10 | Tempo de execucao: 5 | Numero de comparacoes: 83 | Movimentacoes: 326
+Tamanho da entrada: 10 | Tempo de execucao: 5 | Numero de comparacoes: 83 | Movimentacoes: 326
+Tamanho da entrada: 10 | Tempo de execucao: 8 | Numero de comparacoes: 83 | Movimentacoes: 326
+Tamanho da entrada: 10 | Tempo de execucao: 6 | Numero de comparacoes: 83 | Movimentacoes: 326
+Tamanho da entrada: 10 | Tempo de execucao: 5 | Numero de comparacoes: 83 | Movimentacoes: 326
+
+Tamanho da entrada: 100 | Tempo de execucao: 48 | Numero de comparacoes: 8890 | Movimentacoes: 267901
+Tamanho da entrada: 100 | Tempo de execucao: 53 | Numero de comparacoes: 8890 | Movimentacoes: 267901
+Tamanho da entrada: 100 | Tempo de execucao: 51 | Numero de comparacoes: 8890 | Movimentacoes: 267901
+Tamanho da entrada: 100 | Tempo de execucao: 54 | Numero de comparacoes: 8890 | Movimentacoes: 267901
+Tamanho da entrada: 100 | Tempo de execucao: 53 | Numero de comparacoes: 8890 | Movimentacoes: 267901
+
+Tamanho da entrada: 500 | Tempo de execucao: 373 | Numero de comparacoes: 233160 | Movimentacoes: 35892424
+Tamanho da entrada: 500 | Tempo de execucao: 385 | Numero de comparacoes: 233160 | Movimentacoes: 35892424
+Tamanho da entrada: 500 | Tempo de execucao: 388 | Numero de comparacoes: 233160 | Movimentacoes: 35892424
+Tamanho da entrada: 500 | Tempo de execucao: 371 | Numero de comparacoes: 233160 | Movimentacoes: 35892424
+Tamanho da entrada: 500 | Tempo de execucao: 373 | Numero de comparacoes: 233160 | Movimentacoes: 35892424
+
+Tamanho da entrada: 1000 | Tempo de execucao: 642 | Numero de comparacoes: 891196 | Movimentacoes: 245207915
+Tamanho da entrada: 1000 | Tempo de execucao: 655 | Numero de comparacoes: 891196 | Movimentacoes: 245207915
+Tamanho da entrada: 1000 | Tempo de execucao: 647 | Numero de comparacoes: 891196 | Movimentacoes: 245207915
+Tamanho da entrada: 1000 | Tempo de execucao: 640 | Numero de comparacoes: 891196 | Movimentacoes: 245207915
+Tamanho da entrada: 1000 | Tempo de execucao: 649 | Numero de comparacoes: 891196 | Movimentacoes: 245207915
+
+Tamanho da entrada: 10000 | não executou
+
+Tamanho da entrada: 100000 | não executou
+
+Tamanho da entrada: 1000000 | não executou
